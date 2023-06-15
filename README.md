@@ -2,6 +2,11 @@
 
 This repository contains the code for a captivating single-page travel website. The website is designed to showcase various travel services, features, plans, testimonials, and provide a convenient contact form for users to connect with the company effortlessly.
 
+![Screenshot](/design/rehlate.png)
+
+This screenshot showcases the homepage of our travel website. The design features a clean and modern layout with a prominent hero image, intuitive navigation menu, and compelling call-to-action buttons. Users can easily search for destinations, explore travel packages, and read customer reviews. The color scheme and typography are carefully chosen to evoke a sense of adventure and wanderlust. Overall, the screenshot captures the essence of our travel website and its user-friendly interface.
+
+
 # Sections
 
 ### Main Landing Page
