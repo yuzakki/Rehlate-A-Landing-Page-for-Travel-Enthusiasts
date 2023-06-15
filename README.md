@@ -41,7 +41,6 @@ Please note that this README file serves as a general guide, and additional modi
 
 
 This repository is open-source, meaning that it is publicly available for viewing, use, and modification. It is licensed 
-
 under the MIT License, which provides permissions to users to freely utilize and modify the code in this repository. The 
 design of this landing page was originally created by (المصمم أحمد سكماني), and the development was carried out by HASSAN,
 the repository owner.
