@@ -7,7 +7,7 @@ This repository contains the code for a captivating single-page travel website. 
 This screenshot showcases the homepage of our travel website. The design features a clean and modern layout with a prominent hero image, intuitive navigation menu, and compelling call-to-action buttons. Users can easily search for destinations, explore travel packages, and read customer reviews. The color scheme and typography are carefully chosen to evoke a sense of adventure and wanderlust. Overall, the screenshot captures the essence of our travel website and its user-friendly interface.
 
 # Live Demo
-Here is a live demo of the website: [Live Demo](https://namedrehlate.netlify.app/)
+## Here is a live demo of the website: [Live Demo](https://namedrehlate.netlify.app/)
 
 
 # Sections
