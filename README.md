@@ -28,12 +28,12 @@ The contact form section provides users with a convenient way to get in touch wi
 
 To use and customize this repository on your local machine:
 
-1. Clone or download this repository to your local machine.
-2. Open the HTML file in your preferred text editor or web development environment.
-3. Modify the content, visuals, and styling of each section according to your requirements. Replace the hero image, update the featured services, and customize the plans and testimonials with your own content.
-4. Customize the contact form to integrate with your desired backend or email service provider. Ensure that the form captures the necessary user information and sends the inquiries to your designated email address or API endpoint.
-5. Test the website locally to ensure everything is functioning correctly. Verify that the links, buttons, and contact form are working as expected.
-6. Deploy the website to your hosting provider or preferred platform. Ensure that the necessary assets (images, CSS, and JavaScript files) are properly uploaded and that the website is accessible to users.
+- 1. Clone or download this repository to your local machine.
+- 2. Open the HTML file in your preferred text editor or web development environment.
+- 3. Modify the content, visuals, and styling of each section according to your requirements. Replace the hero image, update the featured services, and customize the plans and testimonials with your own content.
+- 4. Customize the contact form to integrate with your desired backend or email service provider. Ensure that the form captures the necessary user information and sends the inquiries to your designated email address or API endpoint.
+- 5. Test the website locally to ensure everything is functioning correctly. Verify that the links, buttons, and contact form are working as expected.
+- 6. Deploy the website to your hosting provider or preferred platform. Ensure that the necessary assets (images, CSS, and JavaScript files) are properly uploaded and that the website is accessible to users.
 
 Please note that this README file serves as a general guide, and additional modifications may be required based on your specific development environment and requirements.
 
